@@ -3,6 +3,8 @@
 
 # Applied Mathematics: an Introduction to Scientific Computing
 
+**ATTENTION**: This repo was a forked version of [this](https://github.com/sissa/P1.4_seed) repo, so all information here provided are owned by the [SISSA/MHPC](https://github.com/sissa) institute.
+
 - Luca Heltai (<luca.heltai@sissa.it>)
 - Gianluigi Rozza (<gianluigi.rozza@sissa.it>)
 
